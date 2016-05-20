@@ -17,7 +17,7 @@
     "mocha": "^2.2.4"
   },
   "dependencies": {
-    "babel": "^6.5.2",
+    "babel-register": "^6.5.2",
     "imgur": "^0.1.7",
     "lwip": "0.0.9",
     "poker-evaluator": "^0.3.1",
